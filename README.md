@@ -4,5 +4,5 @@ This repository hosts my Master’s research paper analyzing bias behavior in mo
 📄 **Paper:** Reevaluating Gender and Racial Bias in Contemporary Multimodal Large Models ([PDF](Rachel_Shen_LLM.pdf))
 
 This project was conducted as part of a collaborative research effort.
-
-The original experimental codebase and implementation were developed in a shared repository, which can be found here: https://github.com/ngrinnel/LLMBias
+The original experimental codebase and implementation were developed in a shared repository.
+🔗 **Original Implementation (Collaborative):** [https://github.com/ngrinnel/LLMBias]
