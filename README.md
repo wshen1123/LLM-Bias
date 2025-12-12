@@ -3,4 +3,4 @@ This repository hosts my Master’s research paper analyzing bias behavior in mo
 
 This project was conducted as part of a collaborative research effort.
 
-The original experimental codebase and implementation were developed in a shared repository whcih can be found here:https://github.com/ngrinnel/LLMBias
+The original experimental codebase and implementation were developed in a shared repository whcih can be found here: LLMBias
